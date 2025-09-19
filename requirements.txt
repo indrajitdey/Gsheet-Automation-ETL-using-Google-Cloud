@@ -1,0 +1,7 @@
+functions-framework==3.9.2
+gspread==6.2.1
+pandas==2.3.2
+pyarrow==21.0.0
+google-cloud-bigquery==3.20.0
+google-cloud-storage==3.4.0
+google-auth==2.40.3
